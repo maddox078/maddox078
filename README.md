@@ -1,0 +1,1 @@
+Hello, I'm William, I discovered coding early on in college and it has been my passion ever since!  I like to stay busy with a wide array of projects spanning artificial intelligence, procedural texture design, and video game source code modifications.  In general, however, I like any projects that test my limits; personal growth is everything!
